@@ -1,0 +1,84 @@
+.mySkills h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.flexcontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.flexcontainer div{
+    
+    width: 33%;
+    /* align-content: center; */
+    /* align-items: center; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+}
+
+.flexcontainer img{
+    width: 45%;
+    border-radius: 8px;
+    height: auto;
+    display:block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.flexcontainer h3{
+    font-size: 30px;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.flexcontainer p{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 24px;
+}
+
+.myWork h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+.workGrid img{
+    width: 30%;
+    border-radius: 8px;
+    height: 45%;
+    display:block;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.workGrid h4{
+    text-align: center;
+    font-size: 36px;
+}
+
+.workGrid p{
+    text-align: center;
+    font-size: 24px;
+}
+
+.workGrid button{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 300px;
+}
+
+.myWork h3{
+    text-align: center;
+}
